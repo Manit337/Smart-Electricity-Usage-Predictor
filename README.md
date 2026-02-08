@@ -1,9 +1,7 @@
 #  Smart Electricity Usage Predictor
 
 **Project Title:** Smart Electricity Usage Predictor  
-**Author:** Manit Gupta  
-**Domain:** AI in Daily Life (Regression + Time-Series Forecasting)  
-**IEEE Technical Team Individual Project — Semester 2**
+**Author:** Manit Gupta   
 
 ---
 
