@@ -56,4 +56,19 @@ This project uses a **supervised regression model**:
 ##  Dataset Format
 
 The input dataset must be a CSV file named:
+ electricity_usage.csv
+
+---
+
+## Tech Stack
+
+-Python 3
+
+-Pandas (Data Processing)
+
+-NumPy (Numerical Operations)
+
+-Matplotlib (Visualization)
+
+-Scikit-learn (Machine Learning)
 
