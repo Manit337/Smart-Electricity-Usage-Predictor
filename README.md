@@ -1,4 +1,4 @@
-# ⚡ Smart Electricity Usage Predictor
+#  Smart Electricity Usage Predictor
 
 **Project Title:** Smart Electricity Usage Predictor  
 **Author:** Manit Gupta  
@@ -7,7 +7,7 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 The **Smart Electricity Usage Predictor** is a Machine Learning-based system that predicts the **next-day household electricity consumption** using historical daily electricity usage data.
 
@@ -15,7 +15,7 @@ This project demonstrates how AI can help optimize energy usage, detect high con
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 To build an end-to-end regression model that:
 
@@ -26,7 +26,7 @@ To build an end-to-end regression model that:
 
 ---
 
-## 🚀 Features
+##  Features
 
 ✅ Load daily electricity usage dataset (CSV)  
 ✅ Preprocess and normalize time-series data  
@@ -38,7 +38,7 @@ To build an end-to-end regression model that:
 
 ---
 
-## 🧠 Machine Learning Approach
+##  Machine Learning Approach
 
 This project uses a **supervised regression model**:
 
@@ -55,7 +55,7 @@ This project uses a **supervised regression model**:
 
 ---
 
-## 📂 Dataset Format
+##  Dataset Format
 
 The input dataset must be a CSV file named:
 
